@@ -1,0 +1,21 @@
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: darkseagreen;
+}
+
+.color_contador{
+    color: blue;
+    font-size: 60px;
+
+}
+
+.color_numero{
+    color: crimson;
+    font-size: 80px;
+}
+
